@@ -1,0 +1,4 @@
+
+
+
+project yaratasiz, ichida 5 ta app har bir app ichida kamida 2 ta model yozasiz, har bir model bo'yicha kamida 2 ta object qo'shasiz.
